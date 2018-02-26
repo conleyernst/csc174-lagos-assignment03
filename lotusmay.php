@@ -52,7 +52,7 @@
 	      				      </h5>
 	      				    </div>
 
-	      				    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+	      				    <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
 	      				      <div class="card-block">
 	      				        University of Rochester: IT and Resnet Consultant
 	      				        Brightseed Dates: Sales and Marketing Analyst

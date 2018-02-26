@@ -55,7 +55,7 @@
 				      </h5>
 				    </div>
 
-				    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+				    <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
 				      <div class="card-block">
 				        During my short career as a computer scientist I have worked at two different startups: Shareaholic and Drift. Both of the Boston based companies develop web applications. I hope to work as a software engineer this upcoming summer and continue my professional development.
 

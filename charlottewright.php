@@ -50,7 +50,7 @@
 	      				      </h5>
 	      				    </div>
 
-	      				    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+	      				    <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne">
 	      				      <div class="card-block">
 	      				        Last summer I worked at IBM as a Research Intern. I worked with Docker, tested performance GATK4 pipelines in cloud systems using Apache Spark, and focused on Sequencing Data and Genotyping. The summer of 2016, I worked at the New York Power Authority as a Developmental Intern for the Electronic Records Management Department. I worked in the Digital Warehouse Department and worked with variety of projects using SharePoint as a collaborative workspace. 
 
