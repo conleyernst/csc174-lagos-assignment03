@@ -33,8 +33,64 @@
 	      <!-- BASIC INFORMATION -->
 	    </div>
 	    <div class="col">
-	      2 of 2
-	      <!-- MORE IN DEPTH INFORMATION ON PERSON HERE - MULTIPARAGRAPH -->
+	    
+	      <!-- MORE IN DEPTH INFORMATION ON PERSON HERE -->
+	      <div class="card">
+	      	     	<div class="card-block">
+	      	      		<h3 class="card-title">Meet May!</h3>
+	      	      		<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+	      	      		<p class="card-text"><strong>Majors:</strong> Computer Scince and Business</p>
+	        				<p class="card-text"><strong>Class of 2020</strong></p>
+
+	      	      		<div id="accordion" role="tablist" aria-multiselectable="true">
+	      				  <div class="card">
+	      				    <div class="card-header" role="tab" id="headingOne">
+	      				      <h5 class="mb-0">
+	      				        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+	      				          Work Experience
+	      				        </a>
+	      				      </h5>
+	      				    </div>
+
+	      				    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+	      				      <div class="card-block">
+	      				        University of Rochester: IT and Resnet Consultant
+	      				        Brightseed Dates: Sales and Marketing Analyst
+	      				        Kaymu Myanmar: Venture Development Intern
+	      				      </div>
+	      				    </div>
+	      				  </div>
+	      				  <div class="card">
+	      				    <div class="card-header" role="tab" id="headingTwo">
+	      				      <h5 class="mb-0">
+	      				        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+	      				          Campus Involvement
+	      				        </a>
+	      				      </h5>
+	      				    </div>
+	      				    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+	      				      <div class="card-block">
+	      				        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	      				      </div>
+	      				    </div>
+	      				  </div>
+	      				  <div class="card">
+	      				    <div class="card-header" role="tab" id="headingThree">
+	      				      <h5 class="mb-0">
+	      				        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+	      				          Why Computer Science?
+	      				        </a>
+	      				      </h5>
+	      				    </div>
+	      				    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
+	      				      <div class="card-block">
+	      				        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	      				      </div>
+	      				    </div>
+	      				  </div>
+	      				</div>
+	      	      	</div>
+	      	      </div>
 	    </div>
 	  </div>
 	</div>
