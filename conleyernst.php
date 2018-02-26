@@ -28,13 +28,23 @@
 	<div class="container">
 	  <div class="row">
 	    <div class="col">
-	      1 of 2
-	      <!-- IMAGE OF PERSON HERE -->
+	      
+	      <div class="card">
+	      	<div class="card-block">
+	      		<img class="card-img-top" src="images/conley.jpg" alt="Conley Ernst Image"> 
+	      	</div>
+	      </div>
 
 	      <!-- BASIC INFORMATION -->
 	    </div>
 	    <div class="col">
-	      2 of 2
+	      <div class="card">
+	      	<div class="card-block">
+	      		<h3 class="card-title">Special title treatment</h3>
+	      		<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+	      		<a href="#" class="btn btn-primary">Go somewhere</a>
+	      	</div>
+	      </div>
 	      <!-- MORE IN DEPTH INFORMATION ON PERSON HERE - MULTIPARAGRAPH -->
 	    </div>
 	  </div>

@@ -61,7 +61,7 @@
   				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">Meet Charlotte
   				  </button>
   				</p>
-  				<div class="collapse" id="collapseE1">
+  				<div class="collapse" id="collapse1">
   				  <div class="card card-block">
   				    <p><strong>Major:</strong> Computer Scince</p>
   				    <p><strong>From:</strong> New York</p>
@@ -90,7 +90,7 @@
   				    <p><strong>Majors:</strong> Computer Scince and Business</p>
   				    <p><strong>From:</strong> Myanmar</p>
   				    <p><strong>Class of 2020</strong></p>
-  				    <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Learn More</a>
+  				    <a class="btn btn-outline-primary" href="lotusmay.php" role="button">Learn More</a>
   				  </div>
   				</div>
   			</div>
@@ -114,7 +114,7 @@
   				    <p><strong>Majors:</strong> Computer Scince and Digital Media Studies</p>
   				    <p><strong>From:</strong> Massachusetts</p>
   				    <p><strong>Class of 2019</strong></p>
-  				    <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Learn More</a>
+  				    <a class="btn btn-outline-primary" href="conleyernst.php" role="button">Learn More</a>
   				  </div>
   				</div>
   			</div>
