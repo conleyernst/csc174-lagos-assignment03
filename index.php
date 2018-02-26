@@ -111,9 +111,9 @@
   				</p>
   				<div class="collapse" id="collapse3">
   				  <div class="card card-block">
-  				    <p><strong>Majors:</strong> Computer Scince and Digital Media Studies</p>
-  				    <p><strong>From:</strong> Massachusetts</p>
-  				    <p><strong>Class of 2019</strong></p>
+  				    <p class="card-text"><strong>Majors:</strong> Computer Scince and Digital Media Studies</p>
+  				    <p class="card-text"><strong>From:</strong> Massachusetts</p>
+  				    <p class="card-text"><strong>Class of 2019</strong></p>
   				    <a class="btn btn-outline-primary" href="conleyernst.php" role="button">Learn More</a>
   				  </div>
   				</div>

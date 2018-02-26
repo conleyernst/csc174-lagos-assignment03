@@ -40,12 +40,60 @@
 	    <div class="col">
 	      <div class="card">
 	      	<div class="card-block">
-	      		<h3 class="card-title">Special title treatment</h3>
-	      		<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-	      		<a href="#" class="btn btn-primary">Go somewhere</a>
+	      		<h3 class="card-title">Meet Conley!</h3>
+	      		<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+	      		<p class="card-text"><strong>Majors:</strong> Computer Scince and Digital Media Studies</p>
+  				<p class="card-text"><strong>Class of 2019</strong></p>
+
+	      		<div id="accordion" role="tablist" aria-multiselectable="true">
+				  <div class="card">
+				    <div class="card-header" role="tab" id="headingOne">
+				      <h5 class="mb-0">
+				        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+				          Work Experience
+				        </a>
+				      </h5>
+				    </div>
+
+				    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+				      <div class="card-block">
+				        During my short career as a computer scientist I have worked at two different startups: Shareaholic and Drift. Both of the Boston based companies develop web applications. I hope to work as a software engineer this upcoming summer and continue my professional development.
+
+				        I also have worked on campus here at the University of Rochester. I am currently a Meridian, aka a tour guide. I give both regular and engineering campus tours. I have also previously worked as a TA for the department of computer science.
+				      </div>
+				    </div>
+				  </div>
+				  <div class="card">
+				    <div class="card-header" role="tab" id="headingTwo">
+				      <h5 class="mb-0">
+				        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				          Campus Involvement
+				        </a>
+				      </h5>
+				    </div>
+				    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+				      <div class="card-block">
+				        Outside of the classroom I am on the Varsity Lacrosse Team and hold a position on the executive board of my sorority. I’ve played lacrosse since I was in fourth grade and am goalie on the team here at UR. In my sorority I have held the executive board position as Panhellenic Delegate and currently serve as Risk Management chairwoman. Additionally, I have held executive council positions of Chapter Historian and Sunshine Chair. Lastly, I am a recruitment counselor (Rho Gamma) for the Panhellenic Association.
+				      </div>
+				    </div>
+				  </div>
+				  <div class="card">
+				    <div class="card-header" role="tab" id="headingThree">
+				      <h5 class="mb-0">
+				        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				          Why Computer Science?
+				        </a>
+				      </h5>
+				    </div>
+				    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
+				      <div class="card-block">
+				        I came in as a freshman with the intent of majoring in Digital Media Studies and Environmental Science. As a result, I spent my freshman year taking mainly Biology and Chemistry courses. The spring semester of my freshman year I took CSC 161 in order to fulfill a Digital Media Studies Requirement; this was my first introduction programming. Though I went in with the attitude that I was going to hate it, I ended up falling in love with programming and ended up switching my second major to Computer Science.
+				      </div>
+				    </div>
+				  </div>
+				</div>
 	      	</div>
 	      </div>
-	      <!-- MORE IN DEPTH INFORMATION ON PERSON HERE - MULTIPARAGRAPH -->
 	    </div>
 	  </div>
 	</div>
