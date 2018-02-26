@@ -17,8 +17,8 @@
 		$charlotteWright = 'activeButton';
 	}else if($activePage =="lotusMay.php"){
 		$lotusMay = 'activeButton';
-	}else if($activePage == "patriceDouge.php"){
-		$patriceDouge = 'activeButton';
+	}else if($activePage == "conleyErnst.php"){
+		$conleyErnst = 'activeButton';
 	}
 ?>
 
@@ -27,7 +27,7 @@
 		<li><a class = "<?php echo $home;?>" href = "index.php">Home</a></li>
 		<li><a class = "<?php echo $charlotteWright;?>" href = "charlottewright.php">Charlotte Wright</a></li>
 		<li><a class = "<?php echo $lotusMay;?>" href = "lotusmay.php">Lotus May</a></li>
-		<li><a class = "<?php echo $patriceDouge;?>" href = "patricedouge.php"> Patrice Douge</a></li>
+		<li><a class = "<?php echo $conleyErnst;?>" href = "conleyernst.php"> Conley Ernst</a></li>
 	</ul>
 </nav>
 </html>
