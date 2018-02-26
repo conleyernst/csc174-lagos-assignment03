@@ -51,7 +51,24 @@
   			<img class="card-img-top" src="images/cwright.jpg" alt="Charlotte Wright Image">
   			<div class="card-block">
   				<h4 class="card-title">Charlotte Wright</h4>
-  				<p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  				<!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+
+  				<!-- expandable button -->
+  				<p>
+  				 <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  				    Link with href
+  				  </a> -->
+  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  				    Charlotte Wright
+  				  </button>
+  				</p>
+  				<div class="collapse" id="collapseExample">
+  				  <div class="card card-block">
+  				    <h5>Major: Computer Scince</h5>
+  				    <h5>Class of 2018</h5>
+  				    <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Go to Page</a>
+  				  </div>
+  				</div>
   			</div>
   		</div>
   		<div class="card">
