@@ -27,7 +27,7 @@
 	<div class="container">
 	  <div class="row">
 	    <div class="col">
-	      1 of 2
+	      <img class="card-img-top" src="images/may.jpg" alt="Lotus May Image">
 	      <!-- IMAGE OF PERSON HERE -->
 
 	      <!-- BASIC INFORMATION -->

@@ -26,14 +26,14 @@
 	<div class="container">
 	  <div class="row">
 	    <div class="col">
-	      1 of 2
+	      <img class="card-img-top" src="images/cwright.jpg" alt="Charlotte Wright Image">
 	      <!-- IMAGE OF PERSON HERE -->
 
 	      <!-- BASIC INFORMATION -->
 	    </div>
 	    <div class="col">
 	      <!-- MORE IN DEPTH INFORMATION ON PERSON HERE - MULTIPARAGRAPH -->
-	      iv class="card">
+	      <div class="card">
 	      	      	<div class="card-block">
 	      	      		<h3 class="card-title">Meet Charlotte!</h3>
 	      	      		<!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
