@@ -58,20 +58,68 @@
   				 <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
   				    Link with href
   				  </a> -->
-  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-  				    Charlotte Wright
+  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Meet Charlotte
   				  </button>
   				</p>
   				<div class="collapse" id="collapseExample">
   				  <div class="card card-block">
-  				    <h5>Major: Computer Scince</h5>
-  				    <h5>Class of 2018</h5>
-  				    <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Go to Page</a>
+  				    <p><strong>Major:</strong> Computer Scince</p>
+  				    <p><strong>From:</strong> New York</p>
+  				    <p><strong>Class of 2018</strong></p>
+  				    <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Learn More</a>
   				  </div>
   				</div>
   			</div>
   		</div>
   		<div class="card">
+				<img class="card-img-top" src="images/may.jpg" alt="Lotus May Image">  			
+				<div class="card-block">
+  				<h4 class="card-title">Lotus May</h4>
+  				<!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+
+  				<!-- expandable button -->
+  				<p>
+  				 <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  				    Link with href
+  				  </a> -->
+  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Meet May
+  				  </button>
+  				</p>
+  				<div class="collapse" id="collapseExample">
+  				  <div class="card card-block">
+  				    <p><strong>Majors:</strong> Computer Scince and Business</p>
+  				    <p><strong>From:</strong> Myanmar</p>
+  				    <p><strong>Class of 2020</strong></p>
+  				    <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Learn More</a>
+  				  </div>
+  				</div>
+  			</div>
+  		</div>
+  		<div class="card">
+				<img class="card-img-top" src="images/may.jpg" alt="Lotus May Image">  			
+				<div class="card-block">
+  				<h4 class="card-title">Conley Ernst</h4>
+  				<!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
+
+  				<!-- expandable button -->
+  				<p>
+  				 <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+  				    Link with href
+  				  </a> -->
+  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Meet Conley
+  				  </button>
+  				</p>
+  				<div class="collapse" id="collapseExample">
+  				  <div class="card card-block">
+  				    <p><strong>Majors:</strong> Computer Scince and Digital Media Studies</p>
+  				    <p><strong>From:</strong> Massachusetts</p>
+  				    <p><strong>Class of 2019</strong></p>
+  				    <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Learn More</a>
+  				  </div>
+  				</div>
+  			</div>
+  		</div>
+  		<!-- <div class="card">
   			<img class="card-img-top" src="images/may.jpg" alt="Lotus May Image">
   			<div class="card-block">
   				<h4 class="card-title">Lotus May</h4>
@@ -84,7 +132,7 @@
   				<h4 class="card-title">Conley Ernst</h4>
   				<p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
   			</div>
-  		</div>
+  		</div> -->
   	</div>
 
 <!-- END CARD SECTION -->
