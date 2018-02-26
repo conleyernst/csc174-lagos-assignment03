@@ -10,33 +10,28 @@
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/override.css">
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+ 	<script src="js/jquery.slides.js"></script>
+	<script src="js/main.js"></script>
 
 	<title>Assignment 3</title>
   </head>
   <body>
 
+  <!-- php nav bars -->
+	<?php include('includes/nav.php');?>
 
-  	<!-- This section is the navigation bar -->
+	<!-- for js slideshow plugin 
+	<div id="slides">
+	<img alt="Charlotte Wright" src="images/cwright.jpg">
+	<img alt="Lotus May" src="images/may.jpg">
 
-  	<!-- INSTRUCTIONS FOR CODER: Set up the nav bar- complete the linking to other pages and use PHP if needed -->
+	</div>
+	->
 
   	<!-- INSTRUCTIONS FOR DESIGNER: experiment with the different nav bars that Bootstrap offers and see what is the most visually appealing for the page. -->
 
-	<nav class="navbar navbar-default">
-	  <div class="container-fluid">
-	    <div class="navbar-header">
-	      <a class="navbar-brand" href="#">WebSiteName</a>
-	    </div>
-	    <ul class="nav navbar-nav">
-	      <li class="active"><a href="#">Home</a></li>
-	      <li><a href="#">Page 1</a></li>
-	      <li><a href="#">Page 2</a></li>
-	      <li><a href="#">Page 3</a></li>
-	    </ul>
-	  </div>
-	</nav>
-
-	<!-- END NAVIGATION BAR -->
+	
 
 <!-- This section will have a card for each of the people featured in this assignement. Each card will contain a breif amount of information, photo and a link to their page. This uses bootstrap card decks. -->
 
