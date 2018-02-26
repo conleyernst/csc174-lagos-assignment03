@@ -58,10 +58,10 @@
   				 <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
   				    Link with href
   				  </a> -->
-  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Meet Charlotte
+  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">Meet Charlotte
   				  </button>
   				</p>
-  				<div class="collapse" id="collapseExample">
+  				<div class="collapse" id="collapseE1">
   				  <div class="card card-block">
   				    <p><strong>Major:</strong> Computer Scince</p>
   				    <p><strong>From:</strong> New York</p>
@@ -82,10 +82,10 @@
   				 <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
   				    Link with href
   				  </a> -->
-  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Meet May
+  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">Meet May
   				  </button>
   				</p>
-  				<div class="collapse" id="collapseExample">
+  				<div class="collapse" id="collapse2">
   				  <div class="card card-block">
   				    <p><strong>Majors:</strong> Computer Scince and Business</p>
   				    <p><strong>From:</strong> Myanmar</p>
@@ -96,7 +96,7 @@
   			</div>
   		</div>
   		<div class="card">
-				<img class="card-img-top" src="images/may.jpg" alt="Lotus May Image">  			
+				<img class="card-img-top" src="images/conley.jpg" alt="Conley Ernst Image">  			
 				<div class="card-block">
   				<h4 class="card-title">Conley Ernst</h4>
   				<!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
@@ -106,10 +106,10 @@
   				 <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
   				    Link with href
   				  </a> -->
-  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Meet Conley
+  				  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">Meet Conley
   				  </button>
   				</p>
-  				<div class="collapse" id="collapseExample">
+  				<div class="collapse" id="collapse3">
   				  <div class="card card-block">
   				    <p><strong>Majors:</strong> Computer Scince and Digital Media Studies</p>
   				    <p><strong>From:</strong> Massachusetts</p>
