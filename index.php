@@ -10,9 +10,6 @@
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/override.css">
-	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
- 	<script src="js/jquery.slides.js"></script>
-	<script src="js/main.js"></script>
 
 	<title>Assignment 3</title>
   </head>
@@ -21,13 +18,12 @@
   <!-- php nav bars -->
 	<?php include('includes/nav.php');?>
 
-	<!-- for js slideshow plugin 
+	<!-- for js slideshow plugin -->
 	<div id="slides">
-	<img alt="Charlotte Wright" src="images/cwright.jpg">
-	<img alt="Lotus May" src="images/may.jpg">
-
+  <img alt="Logo" src="images/logo.jpg">
+	<img alt="Rosie Computer Science" src="images/computerscience.png">
+	<img alt="URWIC" src="images/urwic_banner.jpg">
 	</div>
-	->
 
   	<!-- INSTRUCTIONS FOR DESIGNER: experiment with the different nav bars that Bootstrap offers and see what is the most visually appealing for the page. -->
 
@@ -146,6 +142,9 @@
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="js/jquery.slides.js"></script>
+  <script src="js/main.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   </body>
 </html>
