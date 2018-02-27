@@ -23,13 +23,15 @@
 ?>
 
 <nav class="menu">
-	<ul>
+	<h1>UR Women CS</h1>
+		<ul>
 		<li><a class = "<?php echo $home;?>" href = "index.php">Home</a></li>
 		<li><a class = "<?php echo $charlotteWright;?>" href = "charlottewright.php">Charlotte Wright</a></li>
 		<li><a class = "<?php echo $lotusMay;?>" href = "lotusmay.php">Lotus May</a></li>
 		<li><a class = "<?php echo $conleyErnst;?>" href = "conleyernst.php"> Conley Ernst</a></li>
 	</ul>
 </nav>
+
 </html>
 
 
