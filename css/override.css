@@ -94,7 +94,7 @@ Code gotten from this url: https://cyberchimps.com/forum-topic/hex-of-the-boostr
 	color: #000000; 
 	background-color: #FFFFFF;
 }
-.menu a.is-current {  
+.menu .activeButton {  
 	color: #FF0000; 
 	background-color: #000000;
 }
@@ -115,4 +115,12 @@ do not get too tall. that would ruin the F-pattern*/
 blue as the buttons Design choice for visual appeal*/
 .mb-0 {
 	color: #006dcc;
+}
+#slides {
+	align-items: center;
+	margin-top: 5%;
+	margin-left: 25%;
+	margin-bottom: -20%;
+	height: 45%;
+	width: 50%;
 }

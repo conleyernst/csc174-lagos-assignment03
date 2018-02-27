@@ -8,16 +8,16 @@
 	$home= "button";
 	$charlotteWright = "button";
 	$lotusMay = "button";
-	$patriceDouge = "button";
+	$conleyErnst = "button";
 	$activePage= basename($_SERVER['PHP_SELF']);
 
 	if($activePage=="index.php"){
 		$home = 'activeButton';
-	} else if($activePage=="charlotteWright.php"){
+	} else if($activePage=="charlottewright.php"){
 		$charlotteWright = 'activeButton';
-	}else if($activePage =="lotusMay.php"){
+	}else if($activePage =="lotusmay.php"){
 		$lotusMay = 'activeButton';
-	}else if($activePage == "conleyErnst.php"){
+	}else if($activePage == "conleyernst.php"){
 		$conleyErnst = 'activeButton';
 	}
 ?>
