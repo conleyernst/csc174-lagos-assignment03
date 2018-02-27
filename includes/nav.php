@@ -3,6 +3,7 @@
 <head>
 	<meta charset= "utf-8">
 	<link rel = "stylesheet" href = "../css/override.css" />
+	<title>Assignment 3</title>
 </head>
 <?php
 	$home= "button";
