@@ -19,14 +19,6 @@
    <!-- php nav bars -->
   <?php include('includes/nav.php');?>
 
-  <!-- for js slideshow plugin 
-  <div id="slides">
-  <img alt="Charlotte Wright" src="images/cwright.jpg">
-  <img alt="Lotus May" src="images/may.jpg">
-
-<<<<<<< HEAD
-  </div>
-  ->
 
     <!-- INSTRUCTIONS FOR DESIGNER: experiment with the different nav bars that Bootstrap offers and see what is the most visually appealing for the page. -->
 =======
