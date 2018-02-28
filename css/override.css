@@ -1,9 +1,12 @@
 /*INSTRUCTION FOR DESIGNER: Use this file to override changes to bootstrap and add customization to pages*/
 /*choosing to desing as an F pattern*/
 /* Made images all the same size for Alignment principle*/
+/*Slide show is different than the cards themselves
+to illustrate the contrast principle, made it larger and 
+front and center for the viewport*/
 
 body {
-	background-color: #e6f7ff;
+	background-color: #e6f7ff; /*Design choice for readibility, easy on the eyes*/
 }
 
 .menu { 
@@ -39,7 +42,8 @@ Code gotten from this url: https://cyberchimps.com/forum-topic/hex-of-the-boostr
 	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
-
+/*Repetition principle illustrated by applying
+this to the outline as well*/
 .btn-outline-primary {
 	color: #ffffff;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -100,27 +104,34 @@ Code gotten from this url: https://cyberchimps.com/forum-topic/hex-of-the-boostr
 }
 
 /*Thrown in here to make sure that the images 
-do not get too tall. that would ruin the F-pattern*/
+do not get too tall. that would ruin the F-pattern
+Also made the images and spacing between the cards the same
+to illutrate the Alignment principle!*/
 .card {
 	max-height: 500px;
 }
 
-/*proximity and completing F pattern*/
-.why-cs {
-	margin: 60px 0 0 0;
-	width: 60%;
-}
+
 
 /*Thrown in to make the headings the same color
 blue as the buttons Design choice for visual appeal*/
 .mb-0 {
 	color: #006dcc;
 }
+
+/*proximity and completing F pattern*/
+.why-cs
+{
+	margin: 10px 0 0 0;
+	width: 60%;
+}
+/*proximity principle applied to get the slideshow 
+exactly where we want it. The F pattern is kept in mind*/
 #slides {
 	align-items: center;
-	margin-top: 5%;
-	margin-left: 25%;
-	margin-bottom: -20%;
-	height: 45%;
-	width: 50%;
+	margin-top: 1%;
+	margin-right: 10%;
+	margin-bottom: -45%; 
+	height: 20%;
+	width: 80%;
 }
