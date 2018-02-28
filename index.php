@@ -34,15 +34,18 @@
   <img alt="URWIC" src="images/urwic_banner.jpg">
   </div>
 
+  <!-- WHY CS SECTION: this section explains how the different elements in this page are interconnected 
+ -->
+
+<!-- INSTRUCTION FOR DESIGNER: Experiement with placement of this section, adding this component of "Why Women in Comp Sci" in order to tie each of our people together. Experiment with how the title and block of text works with the rest of the page. -->
+
   <div class="why-cs">
   <h2>Women in Computer Science</h2>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Even with projected growth of 15-20% between 2012 and 2022, the vast majority of computer science jobs will be pursued and filled by men. As STEM-related industries on a whole add over 1.7 million jobs in the coming years, there continues to be a notable absence of women in the field. This trend begins well before entering the job market: girls account for more than half of all Advanced Placement (AP) test-takers, yet boys outnumber girls 4:1 in computer science exams. In Mississippi, Montana and Wyoming, not a single girl took the AP Computer Science examination in 2014.</p>
+  <p>These are some of the women in Computer Science in our CSC 174 class</p>
 </div>
 
-
-
-
-
+<!-- END WHY CS SECTION -->
 
   
 
@@ -50,32 +53,6 @@
 
     <!-- INSTRUCTIONS FOR DESIGNER: please experiment with CSS override in order to achieve a professional appearance. -->
   <div class="card-deck">
-      <div class="card">
-        <img class="card-img-top" src="images/cwright.jpg" alt="Charlotte Wright Image">
-        <div class="card-block">
-          <h4 class="card-title">Charlotte Wright</h4>
-          <!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
-
-          <!-- expandable button -->
-          <p>
-           <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-              Link with href
-            </a> -->
-            <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">Meet Charlotte
-            </button>
-          </p>
-          <div class="collapse" id="collapse1">
-            <div class="card card-block">
-              <p><strong>Major:</strong> Computer Scince</p>
-              <p><strong>From:</strong> New York</p>
-              <p><strong>Class of 2018</strong></p>
-              <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Learn More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-
       <div class="card">
         <img class="card-img-top" src="images/may.jpg" alt="Lotus May Image">       
         <div class="card-block">
@@ -104,13 +81,7 @@
         <img class="card-img-top" src="images/conley.jpg" alt="Conley Ernst Image">       
         <div class="card-block">
           <h4 class="card-title">Conley Ernst</h4>
-          <!-- <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p> -->
-
-          <!-- expandable button -->
           <p>
-           <!--  <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-              Link with href
-            </a> -->
             <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">Meet Conley
             </button>
           </p>
@@ -124,20 +95,24 @@
           </div>
         </div>
       </div>
-      <!-- <div class="card">
-        <img class="card-img-top" src="images/may.jpg" alt="Lotus May Image">
+      <div class="card">
+        <img class="card-img-top" src="images/cwright.jpg" alt="Charlotte Wright Image">
         <div class="card-block">
-          <h4 class="card-title">Lotus May</h4>
-          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          <h4 class="card-title">Charlotte Wright</h4>
+          <p>
+            <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">Meet Charlotte
+            </button>
+          </p>
+          <div class="collapse" id="collapse1">
+            <div class="card card-block">
+              <p><strong>Major:</strong> Computer Scince</p>
+              <p><strong>From:</strong> New York</p>
+              <p><strong>Class of 2018</strong></p>
+              <a class="btn btn-outline-primary" href="charlottewright.php" role="button">Learn More</a>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="card">
-        <img class="card-img-top" src="images/conley.jpg" alt="Conley Ernst Image">
-        <div class="card-block">
-          <h4 class="card-title">Conley Ernst</h4>
-          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-        </div>
-      </div> -->
     </div>
 
 <!-- END CARD SECTION -->
@@ -152,9 +127,6 @@
 
     
   
- 
-
-
 <!-- INSTRUCTIONS FOR CODER: Please insert some kind of slideshow below the cards, content will be stored in images folder -->
 
 

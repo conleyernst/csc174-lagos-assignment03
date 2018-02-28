@@ -72,7 +72,7 @@
 	      				    </div>
 	      				    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
 	      				      <div class="card-block">
-	      				        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	      				        I am currently in an NSF-ICorps team called Pixafari. We are 6 members team who are building a Group Travel organizing platform. Some of us are Computer Science majors, one Data Science but all of us are fill with entrepreneur spirit. Apart from Pixafari, I am currently also working as Study Zone Leader in CETL study zone. It's a newly created study space to assist students in studying.
 	      				      </div>
 	      				    </div>
 	      				  </div>
@@ -86,7 +86,8 @@
 	      				    </div>
 	      				    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
 	      				      <div class="card-block">
-	      				        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	      				        <p class="mb-0">I choose Com Sci because since young I am super interested in IT and technology. I was in Chemical Engineering during my first month in Freshman Year. Three hours long lab and Organic Chemistry forced me to realize Chem E is definitely not for me. So I switched to explore my interest in Computer Science and was amazed by its bounty potential and impacts it is having and it will have in the future.</p>
+	      				        	<footer class="blockquote-footer"><cite title="Source Title">May Shin Lyan</cite></footer>
 	      				      </div>
 	      				    </div>
 	      				  </div>
