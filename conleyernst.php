@@ -10,6 +10,8 @@
 	<!-- Bootstrap CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/override.css">
+	<link rel="stylesheet" href="css/fonts/f1/stylesheet.css">
+  <link rel="stylesheet" href="css/fonts/f2/stylesheet.css">
 
 	<title>Assignment 3</title>
   </head>

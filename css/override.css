@@ -5,8 +5,24 @@
 to illustrate the contrast principle, made it larger and 
 front and center for the viewport*/
 
+/*First custom font chosen ubuntu_monoregular
+Design choice made because the nature of the topic
+is women in computing at UR and ubuntu is the most 
+popular operating system in the computer science realm
+It is the perfect font for the environment, and is austetically
+pleasing. It sets the mood for some coding! This font is also 
+easy on the eyes which enhances readability */
 body {
 	background-color: #e6f7ff; /*Design choice for readibility, easy on the eyes*/
+	font-family: 'ubuntu_monoregular'; 
+}
+
+/*Second custom font chosen is ledregular, and it is chosen
+to go along with the digital theme. This one was chosen for its typography
+because of the mood it sets. The austetics are great here bc
+in a digital world, LED displays are all around us :)*/
+h1, h2 {
+	font-family: 'ledregular';
 }
 
 .menu { 

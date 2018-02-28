@@ -3,6 +3,8 @@
 <head>
 	<meta charset= "utf-8">
 	<link rel = "stylesheet" href = "../css/override.css" />
+	<link rel="stylesheet" href="../css/fonts/f1/stylesheet.css">
+  <link rel="stylesheet" href="../css/fonts/f2/stylesheet.css">
 	<title>Assignment 3</title>
 </head>
 <?php
